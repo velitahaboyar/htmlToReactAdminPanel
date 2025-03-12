@@ -3,7 +3,7 @@ import Sidebar from "./components/Sidebar";
 import Topbar from "./components/Topbar";
 import Footer from "./components/Footer";
 
-function Homepage() {
+function Dashboard() {
   return (
     <div>
       {/* Page Wrapper */}
@@ -515,4 +515,4 @@ function Homepage() {
   );
 }
 
-export default Homepage;
+export default Dashboard;
